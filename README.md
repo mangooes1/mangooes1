@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aastha Suman</h1>
 <h3 align="center">Passionately Pursuing Excellence in Web Development and Innovation.</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m a **Full Stack Developer**
 
 - 📫 How to reach me **aasthasuman990@gmail.com**
 
